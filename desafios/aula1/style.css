@@ -41,6 +41,10 @@
     height: 80px;
     width: 80px;
   }
+
+  .focus{
+    border: 1px solid black;
+  }
   
   input[type=tel] {
     background-color: #cccccc;
@@ -52,4 +56,10 @@
     padding: 10px;
     text-align: center;
     width: 280px;
+  }
+
+  
+
+  .ativa {
+    background-color: yellow;
   }
